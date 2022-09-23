@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I am Shail
-You can reach me at Shail@email.com
+You can reach me at shailplus@duck.com
 
 <!--
 **shailplus/shailplus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
